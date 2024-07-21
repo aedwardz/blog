@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@100..900&display=swap');
+
+h1 {
+    font-family: "Noto Serif Georgian", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+ul {
+    list-style-type: none;
+    border-bottom: solid black;
+    margin:0;
+    padding:0;
+    border-top: solid black;
+    background-color: #333;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #C8ACD6;
+}
+
+body{
+    background-color: #2E236C;
+    border-radius: 12px;
+}
+html{
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    color: #C8ACD6;
+    text-align: center;
+
+}
+h2 {
+    color: #C8ACD6;
+    text-align: center;
+}
